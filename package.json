@@ -1,6 +1,6 @@
 {
   "name": "@12-labours/mapintegratedvuer",
-  "version": "0.3.15",
+  "version": "1.0.0-beta.7",
   "license": "Apache-2.0",
   "scripts": {
     "serve": "vue-cli-service serve --port 8081",
@@ -26,6 +26,7 @@
     "*.js"
   ],
   "dependencies": {
+    "@12-labours/map-side-bar": "^2.0.0-response.2",
     "@abi-software/flatmapvuer": "^0.4.0",
     "@abi-software/map-side-bar": "^2.0.0-response.1",
     "@abi-software/plotvuer": "^0.3.9",
